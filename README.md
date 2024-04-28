@@ -1,6 +1,6 @@
-# Flex Integration with Farcaster Frame
+# Starknet with Farcaster Frame
 
-- This repository showcases the integration of Flex NFT Marketplace Openedition contract, with Farcaster Frame—a feature of the Farcaster protocol launched on Warpcast. Farcaster Frames revolutionize user experiences by seamlessly embedding external applications within social feeds, enhancing engagement and security. With this integration, users can mint or purchase NFTs directly within Warpcast, simplifying the NFT experience and fostering a more immersive environment for collectors and communities. Explore the repository to learn more about how Flex leverages Farcaster Frame to enhance the NFT marketplace experience.
+- This repository showcases the integration of Flex NFT Marketplace Openedition contract, with Farcaster Frame—a feature of the Farcaster protocol launched on Warpcast. Farcaster Frames revolutionize user experiences by seamlessly embedding external applications within social feeds, enhancing engagement and security. With this integration, users can claim Starknet NFTs directly within Warpcast, simplifying the NFT experience and fostering a more immersive environment for collectors and communities. Explore the repository to learn more about how Flex leverages Farcaster Frame to enhance the NFT marketplace experience.
 - Creators have the ability to craft OpenEdition NFT Frames, allowing Warpcast users to claim NFTs by completing quests such as liking, recasting, or following the creator. This innovative feature incentivizes user engagement and fosters a deeper connection between creators and their audience.
 ## Table of Contents
 - [Introduction](#flex-integration-with-farcaster-frame)
@@ -92,5 +92,5 @@ This endpoint confirms the deployment of the wallet account for a creator with t
 
 ```
 ### Frame URI
-The Frame URI for accessing the added contract will be servername/contractAddress. The creator simply **casts** this link to Warpcast, enabling users to interact with the NFT Frame effortlessly.
+The Frame URI for accessing the added contract will be servername/contractAddress. The creators simply **casts** this link to Warpcast, enabling users to interact with the NFT Frame effortlessly.
  
