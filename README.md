@@ -6,9 +6,6 @@
 - [Introduction](#starknet-nft-with-farcaster-frame)
 - [Installation](#installation)
 - [Endpoints](#endpoints)
-  - [Create New Wallet](#create-new-wallet)
-  - [Confirm Deploy Account](#confirm-deploy-account)
-
 
 ## Installation
 
