@@ -12,8 +12,8 @@
 To use the this repository, ensure you have the necessary dependencies installed. The API requires Node.js and npm. Clone the repository and install dependencies using the following commands:
 
 ```bash
-git clone https://github.com/TranNhi27/flex-warpcast.git
-cd flex-warpcast
+git clone https://github.com/Flex-NFT-Marketplace/StarknetQuests-FarcasterFrame.git
+cd StarknetQuests-FarcasterFrame
 npm install
 ```
 - .env file:
