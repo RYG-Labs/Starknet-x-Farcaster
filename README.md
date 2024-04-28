@@ -8,7 +8,6 @@
 - [Endpoints](#endpoints)
   - [Create New Wallet](#create-new-wallet)
   - [Confirm Deploy Account](#confirm-deploy-account)
-- [Usage](#usage)
 
 
 ## Installation
