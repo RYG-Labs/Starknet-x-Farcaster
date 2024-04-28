@@ -1,7 +1,7 @@
 # Starknet with Farcaster Frame
 
 - This repository showcases the integration of Flex NFT Marketplace Openedition contract, with Farcaster Frame—a feature of the Farcaster protocol launched on Warpcast. Farcaster Frames revolutionize user experiences by seamlessly embedding external applications within social feeds, enhancing engagement and security. With this integration, users can claim Starknet NFTs directly within Warpcast, simplifying the NFT experience and fostering a more immersive environment for collectors and communities. Explore the repository to learn more about how Flex leverages Farcaster Frame to enhance the NFT marketplace experience.
-- Creators have the ability to craft OpenEdition NFT Frames, allowing Warpcast users to claim NFTs by completing quests such as liking, recasting, or following the creator. This innovative feature incentivizes user engagement and fosters a deeper connection between creators and their audience.
+- Creators have the ability to craft OpenEdition NFT Frames, allowing Warpcast users to claim NFTs by completing quests such as liking, recasting, or following the creator. This innovative feature incentivizes user engagement and fosters a deeper connection between creators and their audience. The creators needs to fund the payer_address for the NFTs claimming transactions of the users, the frame will respond reasonably to the balance of the payer_address.
 ## Table of Contents
 - [Introduction](#flex-integration-with-farcaster-frame)
 - [Installation](#installation)
